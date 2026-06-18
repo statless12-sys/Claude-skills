@@ -1,3 +1,8 @@
+Status: Active Development
+Version: 1.0
+Last Updated: June 2026
+
+
 # Claude Skills
 
 Construction AI Skills for:
@@ -9,7 +14,7 @@ Construction AI Skills for:
 - Resource Management
 - Site Engineering
 
-Current Skill Count: 12
+Current Skill Count: 16
 
 Languages:
 - English
@@ -280,6 +285,80 @@ Typical Output Format:
 •	تفصيل العمالة حسب التخصص
 •	ملاحظات تخطيط الموارد البشرية
  
+
+13. /Offer Evaluator
+مقيم العروض الفنية والتجارية
+Function:
+Reviews a subcontractor quotation against project contract documents and determines compliance with the BOQ, specifications, drawings, tender requirements, and contractual obligations. Identifies exclusions, missing scope items, deviations, risks, and non-compliance issues before commercial evaluation.
+الوظيفة:
+يقوم بمراجعة عرض المقاول الباطن ومقارنته مع مستندات المشروع والعقد للتأكد من توافقه مع جدول الكميات والمواصفات والمخططات ومتطلبات المناقصة والالتزامات التعاقدية. كما يحدد البنود المستثناة ونطاق العمل الناقص والانحرافات والمخاطر ومشاكل عدم التوافق قبل التقييم التجاري.
+Typical Output Format:
+• Executive Summary
+• Compliance Score
+• Scope Compliance Review
+• Missing Scope Items
+• Exclusions Register
+• Specification Deviations
+• Quantity Discrepancies
+• Material / Product Compliance Review
+• Program & Duration Review
+• Commercial Risks
+• Potential Future Claims / Variations
+• Key Clarifications Required
+• Final Compliance Recommendation
+تنسيق المخرجات المتوقع:
+• ملخص تنفيذي
+• درجة التوافق
+• مراجعة توافق نطاق العمل
+• البنود الناقصة
+• سجل الاستثناءات
+• الانحرافات عن المواصفات
+• اختلافات الكميات
+• مراجعة توافق المواد والمنتجات
+• مراجعة البرنامج الزمني والمدة
+• المخاطر التجارية
+• المطالبات أو الأوامر التغييرية المحتملة
+• الاستفسارات المطلوبة
+• التوصية النهائية بشأن التوافق
+ 
+
+14. /Offer Comparison Engine
+محرك مقارنة العروض
+Function:
+Compares multiple subcontractor quotations, evaluates pricing, scope coverage, compliance, risks, exclusions, delivery schedules, and overall value. Ranks bidders and recommends the best overall offer based on technical, commercial, and contractual considerations rather than lowest price alone.
+الوظيفة:
+يقوم بمقارنة عروض متعددة من المقاولين الباطنين وتقييم الأسعار وتغطية نطاق العمل ومدى التوافق والمخاطر والاستثناءات والجداول الزمنية والقيمة الإجمالية المقدمة. كما يقوم بترتيب العروض وتحديد أفضل عرض بناءً على الجوانب الفنية والتجارية والتعاقدية وليس على السعر الأقل فقط.
+Typical Output Format:
+• Executive Summary
+• Offer Comparison Matrix
+• Pricing Comparison
+• Compliance Comparison
+• Scope Comparison
+• Exclusions Comparison
+• Program & Duration Comparison
+• Risk Comparison
+• Value-for-Money Analysis
+• Strengths and Weaknesses of Each Offer
+• Bidder Ranking
+• Recommended Subcontractor
+• Negotiation Opportunities
+• Management Decision Summary
+تنسيق المخرجات المتوقع:
+• ملخص تنفيذي
+• جدول مقارنة العروض
+• مقارنة الأسعار
+• مقارنة التوافق
+• مقارنة نطاق العمل
+• مقارنة الاستثناءات
+• مقارنة البرامج الزمنية والمدد
+• مقارنة المخاطر
+• تحليل القيمة مقابل التكلفة
+• نقاط القوة والضعف لكل عرض
+• ترتيب المتنافسين
+• العرض الموصى به
+• فرص التفاوض
+• ملخص القرار الإداري
+ 
 Purpose
 الهدف
 The goal of these AI tools is to reduce time spent on repetitive documentation, improve risk identification during tendering and project execution, strengthen schedule and resource management, standardize project documentation, and increase efficiency across estimating, contracts, project controls, project management, planning, and site engineering functions.
@@ -289,14 +368,3 @@ Important Note
 ملاحظة مهمة
 These tools are intended to support engineers, project managers, quantity surveyors, planners, and contracts teams. They do not replace professional judgment. All AI-generated outputs must be reviewed and approved by the responsible project team before official use or submission.
 تهدف هذه الأدوات إلى دعم المهندسين ومديري المشاريع ومهندسي الكميات والمخططين وفرق العقود، ولا تحل محل الحكم والخبرة المهنية. يجب مراجعة واعتماد جميع المخرجات الناتجة عن الذكاء الاصطناعي من قبل فريق المشروع المسؤول قبل استخدامها أو تقديمها بشكل رسمي.
-
-
-
-## Additional Skills
-
-The following skills are available in the ZIP or SKILL archives and can be imported into Claude as needed:
-
-- /schedule-delay-analyzer
-- /labor-allocation
-- /resource-pool-optimizer
-- /cwicr-crew-optimizer
