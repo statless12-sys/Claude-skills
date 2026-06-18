@@ -289,3 +289,14 @@ Important Note
 ملاحظة مهمة
 These tools are intended to support engineers, project managers, quantity surveyors, planners, and contracts teams. They do not replace professional judgment. All AI-generated outputs must be reviewed and approved by the responsible project team before official use or submission.
 تهدف هذه الأدوات إلى دعم المهندسين ومديري المشاريع ومهندسي الكميات والمخططين وفرق العقود، ولا تحل محل الحكم والخبرة المهنية. يجب مراجعة واعتماد جميع المخرجات الناتجة عن الذكاء الاصطناعي من قبل فريق المشروع المسؤول قبل استخدامها أو تقديمها بشكل رسمي.
+
+
+
+## Additional Skills
+
+The following skills are available in the ZIP or SKILL archives and can be imported into Claude as needed:
+
+- /schedule-delay-analyzer
+- /labor-allocation
+- /resource-pool-optimizer
+- /cwicr-crew-optimizer
