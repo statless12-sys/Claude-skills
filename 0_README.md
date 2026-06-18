@@ -1,3 +1,22 @@
+# Claude Skills
+
+Construction AI Skills for:
+
+- Tendering & Estimating
+- Contracts Management
+- Project Controls
+- Planning & Scheduling
+- Resource Management
+- Site Engineering
+
+Current Skill Count: 12
+
+Languages:
+- English
+- Arabic
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
 Construction AI Skills Created
 أدوات الذكاء الاصطناعي الإنشائية التي تم تطويرها
  
