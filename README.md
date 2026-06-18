@@ -1,5 +1,9 @@
 # Claude Skills
 
+### Active Development
+### Version 1.0
+### Updated June 2026
+
 Construction AI skills for:
 
 - Tendering
@@ -29,4 +33,4 @@ Current Skill Count: 16
 - /offer-evaluator
 - /offer-comparison-engine
 
-See "Construction AI Skills Created.docx" for full documentation.
+# **See "Construction AI Skills Created.docx" for full documentation.**
