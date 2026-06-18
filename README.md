@@ -14,7 +14,9 @@ Construction AI Skills for:
 - Resource Management
 - Site Engineering
 
-Current Skill Count: 16
+Active Skills: 13
+Archived / Importable Skills: 3
+Total Skill Assets: 16
 
 Languages:
 - English
